@@ -1,4 +1,4 @@
-#Instrucciones
+***Instrucciones***
 Para poder hacer uso de la pagina web de manera local se necesita seguir una serie de pasos.
 1. Descargar el repositorio 
 2. Extraer los archivos .rar en una carpeta 
